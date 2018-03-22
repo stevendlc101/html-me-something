@@ -5,7 +5,7 @@ body {
     margin-right: 150px;
     margin-left: 150px:;
 	padding-top: 25px;
-	padding-bottom: 25px
+	padding-bottom: 25px;
 }
 
 p {
@@ -16,19 +16,19 @@ p {
 }
 
 header {
-    color: black
+    color: black;
 }
  
 h1 {
-     color: red
+     color: red;
  }
 
  h2 {
-     color: red
+     color: red;
  }
 
  h3 {
-     color: red
+     color: red;
  }
 
  #index {
